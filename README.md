@@ -1,5 +1,5 @@
 # EX-21-POINTERS
-# AIM:
+## AIM:
 Write a c program to add two integer numbers using pointers.
 
 ## ALGORITHM:
